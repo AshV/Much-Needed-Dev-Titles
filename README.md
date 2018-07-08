@@ -2,11 +2,7 @@
 
 > 😜 book titles developers wish they're real
 
-![](img/dev%20(3).jpg)
-
----
-
-![](img/dev%20(2).jpg)
+| ![](img/dev%20(3).jpg) | ![](img/dev%20(2).jpg) |
 
 ---
 
